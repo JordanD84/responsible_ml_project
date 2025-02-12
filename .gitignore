@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# extras
+peer_review_prop
+project_proposal
+references/articles
