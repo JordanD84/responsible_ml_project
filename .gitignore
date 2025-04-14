@@ -174,3 +174,15 @@ cython_debug/
 peer_review_prop
 project_proposal
 references/articles
+
+# Gated dataset
+data/test_set/flores
+
+#other parts of project
+peer_review_prop
+peer_review_presentation
+wmt_affiliations.xlsx
+*.png
+*.pdf
+*.docx
+model.ckpt
