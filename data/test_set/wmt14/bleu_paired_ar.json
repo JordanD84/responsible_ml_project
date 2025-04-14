@@ -1,0 +1,44 @@
+[
+    {
+        "system": "Baseline: data/test_set/wmt14/mt_t5.txt",
+        "BLEU": {
+            "score": 35.27650048103602,
+            "p_value": null,
+            "mean": null,
+            "ci": null
+        },
+        "chrF2": {
+            "score": 61.009416218336256,
+            "p_value": null,
+            "mean": null,
+            "ci": null
+        },
+        "TER": {
+            "score": 54.129626172250866,
+            "p_value": null,
+            "mean": null,
+            "ci": null
+        }
+    },
+    {
+        "system": "data/test_set/wmt14/mt_opus.txt",
+        "BLEU": {
+            "score": 40.692394278435565,
+            "p_value": 9.999000099990002e-05,
+            "mean": null,
+            "ci": null
+        },
+        "chrF2": {
+            "score": 64.83547291633134,
+            "p_value": 9.999000099990002e-05,
+            "mean": null,
+            "ci": null
+        },
+        "TER": {
+            "score": 48.69813732389309,
+            "p_value": 9.999000099990002e-05,
+            "mean": null,
+            "ci": null
+        }
+    }
+]
